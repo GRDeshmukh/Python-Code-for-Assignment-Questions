@@ -1,10 +1,8 @@
 # Python-coding-questions-solution
 
-
-
- **Check above ipynb file for Python code solution.**
+ **CHECK ABOVE ipynb FILE FOR PYTHON CODE SOLUTION.**
  
- **Following question on python were asked** 
+ Following question on python were asked
 
 1. Write a class that implements a matrix ?
 
