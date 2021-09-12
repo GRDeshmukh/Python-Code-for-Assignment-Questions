@@ -1,5 +1,5 @@
 # Python-coding-questions-assignment
-Following questions on python coding were asked. Check ipynb 
+Following questions on python coding were asked. Check ipynb file for python code.
 
 Write a class that implements a matrix ?
 
