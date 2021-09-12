@@ -2,7 +2,7 @@
 
 
 
- **Check above ipynb file for Python code.**
+ **Check above ipynb file for Python code solution.**
  
  **Following question on python were asked** 
 
