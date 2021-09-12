@@ -1,8 +1,8 @@
-# Python-coding-questions-assignment
+# Python-coding-questions-solution
 
 
 
- **Check ipynb file for Python code.**
+ **Check above ipynb file for Python code.**
  
  **Following question on python were asked** 
 
