@@ -1,6 +1,6 @@
 # Python-coding-questions-solution
 
-**CHECK ABOVE ipynb FILE FOR PYTHON CODE SOLUTION.**
+**PLEASE CHECK ABOVE ipynb FILE FOR PYTHON CODE SOLUTION.**
  
  Following questions on python were asked
 
