@@ -2,7 +2,7 @@
 
 **`PLEASE CHECK ABOVE Python_Code.ipynb FILE FOR PYTHON CODE SOLUTION.`**
  
- Following questions on python were asked
+ Following questions on python were asked 
 
 1. Write a class that implements a matrix ?
 
